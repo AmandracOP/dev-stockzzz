@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow  # or pytorch, depending on your choice
+spacy
+nltk
+textblob
+yfinance
+vaderSentiment
+matplotlib
+seaborn
+requests

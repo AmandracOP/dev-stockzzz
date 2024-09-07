@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Caches and temporary files
+*.log
+*.tmp
+*.out
+*.pid
+*.swp
+*.swo
+
+# Environment variables and credentials
+.env
+*.env
+
+# Data files
+data/raw/
+data/processed/
+data/processed_with_sentiment/
+*.csv
+
+# Dependencies
+devzzz/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+*.lock
+
+# MacOS specific files
+.DS_Store
+
+# Visual Studio Code specific files
+.vscode/
