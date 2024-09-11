@@ -12,7 +12,8 @@ This project aims to predict stock market trends using sentiment analysis of fin
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repo_url>
+    git clone https://github.com/AmandracOP/dev-stockzzz.git
+    
     cd devanshi_ds_project
     ```
 
